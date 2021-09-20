@@ -67,13 +67,13 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-arslan-shahzad-819006162/"><img src="https://img.shields.io/badge/-Muhammad Arslan Shahzad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/m-hamza-tahir-0a1b0a167/"><img src="https://img.shields.io/badge/-Muhammad Hamza Tahir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itsme.hamzil@gmail.com"><img src="https://img.shields.io/badge/-itsme.hamzil@gmial.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Muhamma49379752"><img src="https://img.shields.io/badge/-@Muhammad Arslan Shahzad-0077B6?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/ham_zil"><img src="https://img.shields.io/badge/-@Muhammad Hamza Tahir-0077B6?style=flat&logo=Twitter&logoColor=white"/></a>
 
 ## Contribution Graph
 
-[![Arslan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamZil&theme=xcode)](https://github.com/HamZil)
+[![Hamza's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HamZil&theme=xcode)](https://github.com/HamZil)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
@@ -83,6 +83,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamZil&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HamZil&layout=compact&langs_count=8&theme=dark"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mas2000&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HamZil&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true" />
 </p>
 </p>
