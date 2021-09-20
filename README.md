@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Hamza Tahir 👋
 
 ### I'm a Developer!
-- 🔭 I’m currently working as Full Stack Developer
+- 🔭 I’m currently working as android Developer
 - 🌱 I’m currently learning Competitive-coding, Machine Learning and AI 
 
 <h2><i>💻 Tech Stack</i></h2>
