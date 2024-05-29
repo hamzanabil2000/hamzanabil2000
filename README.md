@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Hamza Tahir 👋
+# Hi there, I'm Hamza Nabil 👋
 
 ### I'm a Developer!
 - 🔭 I’m currently working as android Developer
